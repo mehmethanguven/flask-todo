@@ -1,4 +1,10 @@
-## Django todos
+## Flask todos demo
+
+## Author
+
+Mehmethan Guven
+<br/>
+<a href='mailto:mehmethanguven@gmail.com<'>mehmethanguven@gmail.com</a>
 
 ### Installation
 
